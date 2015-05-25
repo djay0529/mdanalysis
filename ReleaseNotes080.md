@@ -1,0 +1,1 @@
+MDAnalysis 0.8.0 was released without some of the intended features and never advertised. Although the release is working it is considered deprecated. For all intents and purposes it is superseded by [MDAnalysis 0.8.1](ReleaseNotes081.md) (which has the full CHANGELOG).
